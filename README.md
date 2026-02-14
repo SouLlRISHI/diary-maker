@@ -44,4 +44,4 @@ Make sure link starts with `http` and ends with `.jpg`, `.jpeg`, or `.png`.
 
 ---
 
-📱 Best experience on mobile.
+📱 Best experience on laptop.
